@@ -1,3 +1,2 @@
 # inter-coos
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/inter-coos)
+Interprete para la materia de compiladores
