@@ -1,5 +1,7 @@
 # Interprete 'COOS'
-Interprete 'COOS' para la materia de compiladores:
+Interprete 'COOS' para la materia de compiladores, :
+
+dentro del archivo `pruebas.txt` , hay bloques de codigo compilables.
 
 - **En el interprete :**
 
